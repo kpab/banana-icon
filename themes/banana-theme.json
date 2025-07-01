@@ -4,10 +4,10 @@
       "iconPath": "../icons/banana.svg"
     },
     "_folder": {
-      "iconPath": "../icons/banana-folder.svg"
+      "iconPath": "../icons/banana.svg"
     },
     "_folder_open": {
-      "iconPath": "../icons/banana-folder-open.svg"
+      "iconPath": "../icons/banana.svg"
     }
   },
   "file": "_banana",
