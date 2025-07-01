@@ -1,0 +1,39 @@
+{
+  "name": "banana-icons",
+  "displayName": "Banana Icons 🍌",
+  "description": "すべてのファイルをバナナアイコンで表示",
+  "version": "1.0.0",
+  "publisher": "banana-dev",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "keywords": ["icon", "theme", "banana", "fun"],
+  "icon": "icons/banana.png",
+  "galleryBanner": {
+    "color": "#FFD700",
+    "theme": "light"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/banana-icons-vscode"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "banana-icons",
+        "label": "Banana Icons 🍌",
+        "path": "./themes/banana-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "echo 'No compilation needed'",
+    "watch": "echo 'No compilation needed'"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.60.0",
+    "vsce": "^2.15.0"
+  }
+}
