@@ -1,9 +1,14 @@
 {
   "name": "banana-icons",
   "displayName": "Banana Icons 🍌",
-  "description": "すべてのファイルをバナナアイコンで表示",
+  "description": "All files become bananas! A fun icon theme that displays all file types with banana icons",
   "version": "1.0.0",
   "publisher": "banana-dev",
+  "license": "MIT",
+  "homepage": "https://github.com/your-username/banana-icons-vscode",
+  "bugs": {
+    "url": "https://github.com/your-username/banana-icons-vscode/issues"
+  },
   "engines": {
     "vscode": "^1.60.0"
   },
