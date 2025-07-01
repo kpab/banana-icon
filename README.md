@@ -1,88 +1,124 @@
 # Banana Icons for VSCode 🍌
 
-A fun and fruity icon theme for Visual Studio Code that turns all your files into bananas!
+> **Transform your boring file explorer into a tropical paradise!** 🏝️
+
+The ultimate meme icon theme that turns EVERY file and folder into a delicious banana. Because why have different icons when you can have **BANANA**?
 
 ![Banana Icons Preview](https://raw.githubusercontent.com/kpab/banana-icon/main/images/preview.png)
 
-## Features
+## 🎯 Features
 
-- 🍌 **Universal Banana Icons**: Every file type displays with a banana icon
-- 📁 **Banana Folders**: Folders also get the banana treatment
-- 🎨 **Consistent Design**: Clean, simple banana icons throughout your workspace
-- ⚡ **Lightweight**: Minimal performance impact
-- 🌈 **Fun Factor**: Makes coding more enjoyable!
+### 🍌 **ONE ICON TO RULE THEM ALL**
+- `.js`? **BANANA!**
+- `.py`? **BANANA!**
+- `.exe`? **BANANA!**
+- `node_modules`? **BANANA!**
+- That weird file you don't remember creating? **STILL BANANA!**
 
-## Installation
+### ✨ Why You'll Love It
+- **Zero Decision Fatigue** - No more wondering what icon represents what
+- **Maximum Consistency** - Everything looks the same (it's a feature!)
+- **Instant Happiness** - Scientific studies* show bananas make people smile
+- **Performance Optimized** - One icon = Less memory usage (probably)
+- **Colorblind Friendly** - Everyone can see yellow!
 
-### From VSCode Marketplace
+_*No actual studies were conducted_
 
-1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Banana Icons`
-3. Click **Install**
-4. Click **Reload** to activate the extension
+## 🚀 Installation
 
-### From Command Line
+### Option 1: VSCode Marketplace (Easiest)
+```
+1. Open Extensions (Ctrl+Shift+X / Cmd+Shift+X)
+2. Search "Banana Icons"
+3. Click Install
+4. Select as your icon theme
+5. Enjoy your bananas! 🍌
+```
 
+### Option 2: Command Line (For the Cool Kids)
 ```bash
 code --install-extension banana-icons
 ```
 
-### Manual Installation
+### Option 3: Manual Installation (For the Adventurous)
+```bash
+# Download from GitHub releases
+wget https://github.com/kpab/banana-icon/releases/latest/download/banana-icons.vsix
+code --install-extension banana-icons.vsix
+```
 
-1. Download the `.vsix` file from the [releases page](https://github.com/kpab/banana-icon/releases)
-2. Run `code --install-extension banana-icons-*.vsix`
-3. Reload VS Code
+## 🎮 Usage
 
-## Usage
+### Activate Maximum Banana Mode
+```
+Ctrl+Shift+P → "File Icon Theme" → "Banana Icons 🍌"
+```
 
-### Activate the Theme
+### Return to Boring Mode
+```
+Ctrl+Shift+P → "File Icon Theme" → (Any other theme)
+```
 
-1. Open Command Palette `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS)
-2. Type `Preferences: File Icon Theme`
-3. Select `Banana Icons 🍌`
+**Pro Tip:** There's no going back. Once you go banana, you never go... back-nana? 🤔
 
-### Deactivate the Theme
+## 🤔 Frequently Asked Questions
 
-1. Open Command Palette `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS)
-2. Type `Preferences: File Icon Theme`
-3. Select a different icon theme or `None`
+**Q: Why bananas?**  
+A: Why NOT bananas?
 
-## Why Bananas? 🤔
+**Q: Can I change the banana to another fruit?**  
+A: That would defeat the entire purpose of BANANA ICONS.
 
-- Bananas are universally loved
-- They bring a smile to your face
-- Yellow is a happy color
-- Potassium is good for your brain (and coding!)
-- Why not?
+**Q: Is this a joke?**  
+A: Life is a joke. This is a banana. 🍌
 
-## Screenshots
+**Q: Will this improve my productivity?**  
+A: Studies show that people who use Banana Icons are 420% more likely to smile while coding.*
 
-### File Explorer
-![File Explorer with Banana Icons](https://raw.githubusercontent.com/kpab/banana-icon/main/images/file-explorer.png)
+**Q: My colleague says this is stupid.**  
+A: Your colleague probably uses light theme too.
 
-### Editor Tabs
-![Editor Tabs with Banana Icons](https://raw.githubusercontent.com/kpab/banana-icon/main/images/editor-tabs.png)
+_*Source: Trust me bro_
 
-## Supported File Types
+## 📸 Screenshots
 
-This extension supports **ALL** file types! Here are some examples:
+> "A picture is worth a thousand bananas" - Ancient Proverb
 
-- Programming Languages: `.js`, `.ts`, `.py`, `.java`, `.c`, `.cpp`, `.go`, `.rust`, etc.
-- Web Files: `.html`, `.css`, `.scss`, `.vue`, `.react`, etc.
-- Data Files: `.json`, `.xml`, `.yaml`, `.csv`, etc.
-- Documentation: `.md`, `.txt`, `.pdf`, `.doc`, etc.
-- Media Files: `.png`, `.jpg`, `.svg`, `.mp4`, etc.
-- And literally everything else!
+![Banana Paradise](https://raw.githubusercontent.com/kpab/banana-icon/main/images/preview.png)
 
-## Contributing
+## 🎯 Supported File Types
 
-Love bananas? Want to make this extension even better? Contributions are welcome!
+### Short Answer:
+**ALL OF THEM.** Every. Single. One.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-bananas`)
-3. Commit your changes (`git commit -m 'Add some amazing bananas'`)
-4. Push to the branch (`git push origin feature/amazing-bananas`)
-5. Open a Pull Request
+### Long Answer:
+```
+if (file.exists()) {
+  icon = "🍌";
+}
+```
+
+### Examples of Banana-fied Files:
+- **Your code**: `index.js` → 🍌
+- **Your bugs**: `undefined.ts` → 🍌  
+- **Your secrets**: `.env` → 🍌
+- **Your shame**: `node_modules/` → 🍌
+- **That file from 2019**: `untitled-1.txt` → 🍌
+- **Your ex's photo**: `delete-this.jpg` → 🍌
+
+## 🤝 Contributing
+
+### Current Contribution Status:
+```
+Accepting PRs: ❌
+Reason: It's already perfect. It's literally just bananas.
+```
+
+### What We Need:
+- More bananas? ❌ (We have the perfect amount)
+- Different fruits? ❌ (This is BANANA icons, not fruit salad)
+- Bug fixes? ❌ (Bananas don't have bugs, they have spots)
+- Star the repo? ✅ (This is the way)
 
 ## Development
 
@@ -135,13 +171,21 @@ vsce publish
 - Added banana folder icons
 - Full VS Code integration
 
-## Roadmap
+## 🗺️ Roadmap
 
-- [ ] Animated bananas (on hover)
-- [ ] Different banana ripeness levels
-- [ ] Banana bunch for workspaces
-- [ ] Banana split theme variant
-- [ ] User customizable banana colors
+### Version 2.0 - "The Banana Republic Update"
+- [ ] Animated dancing bananas (on file save)
+- [ ] Banana ripeness based on file age
+- [ ] Rotten banana for files with syntax errors
+- [ ] Golden banana for files over 1000 lines
+- [ ] Banana.exe - Make VS Code entirely banana
+
+### Version 3.0 - "Gone Bananas"
+- [ ] Replace all text with banana emoji
+- [ ] Banana sound effects
+- [ ] Smell-o-vision support
+- [ ] Blockchain bananas (BanaNFT)
+- [ ] AI-powered banana suggestions
 
 ## License
 
@@ -155,11 +199,29 @@ This extension is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Enjoy your bananas!** 🍌
+## 🍌 The Banana Manifesto
 
-If you like this extension, please consider:
-- ⭐ Starring the [GitHub repository](https://github.com/kpab/banana-icon)
-- 📝 Leaving a [review on the marketplace](https://marketplace.visualstudio.com/items?itemName=banana-dev.banana-icons)
-- 🍌 Sharing it with your friends
+> "In a world full of complicated icon themes, be a banana."
 
-Have a banana-tastic day!
+### Join the Banana Revolution:
+- ⭐ **Star this repo** - Each star = One happy banana
+- 🐦 **Tweet about it** - Use #BananaIcons #VSCode
+- 📢 **Tell your friends** - Spread the banana gospel
+- 🍌 **Send bananas** - To your enemies (they need joy too)
+
+### Official Banana Stats:
+- Files banana-fied: ∞
+- Developers enlightened: Loading...
+- Bananas consumed while coding: 420,069
+- Potassium levels: MAXIMUM
+
+---
+
+<p align="center">
+  <b>Made with 🍌 by people who have too much time</b><br>
+  <sub>Remember: It's not a bug, it's a banana.</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20By-Bananas-yellow?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0gMyAxMCBDIDMgNiwgNSAzLCA5IDIgQyAxMSAxLjUsIDEyLjUgMiwgMTMgMyBDIDEzLjUgNCwgMTMgNSwgMTIgNiBDIDEwIDgsIDggMTAsIDYgMTIgQyA1IDEzLCA0IDEzLCAzIDEyIEMgMi41IDExLCAyLjUgMTAuNSwgMyAxMCBaIiBmaWxsPSIjRkZFMTM1IiBzdHJva2U9IiNGNEM0MzAiIHN0cm9rZS13aWR0aD0iMC41Ii8+Cjwvc3ZnPg==">
+</p>

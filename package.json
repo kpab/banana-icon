@@ -13,7 +13,26 @@
     "vscode": "^1.60.0"
   },
   "categories": ["Themes"],
-  "keywords": ["icon", "theme", "banana", "fun"],
+  "keywords": [
+    "icon",
+    "theme",
+    "icon-theme",
+    "banana",
+    "fun",
+    "funny",
+    "yellow",
+    "fruit",
+    "meme",
+    "joke",
+    "customization",
+    "file-icons",
+    "folder-icons",
+    "vscode-icons",
+    "minimal",
+    "simple",
+    "uniform",
+    "consistent"
+  ],
   "icon": "icons/banana.png",
   "galleryBanner": {
     "color": "#FFD700",
