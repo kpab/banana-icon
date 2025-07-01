@@ -12,7 +12,7 @@
   "engines": {
     "vscode": "^1.60.0"
   },
-  "categories": ["Themes"],
+  "categories": ["Themes", "Other", "Extension Packs"],
   "keywords": [
     "icon",
     "theme",
