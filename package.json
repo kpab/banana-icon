@@ -5,9 +5,9 @@
   "version": "1.0.0",
   "publisher": "banana-dev",
   "license": "MIT",
-  "homepage": "https://github.com/your-username/banana-icons-vscode",
+  "homepage": "https://github.com/kpab/banana-icon",
   "bugs": {
-    "url": "https://github.com/your-username/banana-icons-vscode/issues"
+    "url": "https://github.com/kpab/banana-icon/issues"
   },
   "engines": {
     "vscode": "^1.60.0"
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/banana-icons-vscode"
+    "url": "https://github.com/kpab/banana-icon"
   },
   "contributes": {
     "iconThemes": [

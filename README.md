@@ -2,7 +2,7 @@
 
 A fun and fruity icon theme for Visual Studio Code that turns all your files into bananas!
 
-![Banana Icons Preview](https://raw.githubusercontent.com/your-username/banana-icons-vscode/main/images/preview.png)
+![Banana Icons Preview](https://raw.githubusercontent.com/kpab/banana-icon/main/images/preview.png)
 
 ## Features
 
@@ -29,7 +29,7 @@ code --install-extension banana-icons
 
 ### Manual Installation
 
-1. Download the `.vsix` file from the [releases page](https://github.com/your-username/banana-icons-vscode/releases)
+1. Download the `.vsix` file from the [releases page](https://github.com/kpab/banana-icon/releases)
 2. Run `code --install-extension banana-icons-*.vsix`
 3. Reload VS Code
 
@@ -58,10 +58,10 @@ code --install-extension banana-icons
 ## Screenshots
 
 ### File Explorer
-![File Explorer with Banana Icons](https://raw.githubusercontent.com/your-username/banana-icons-vscode/main/images/file-explorer.png)
+![File Explorer with Banana Icons](https://raw.githubusercontent.com/kpab/banana-icon/main/images/file-explorer.png)
 
 ### Editor Tabs
-![Editor Tabs with Banana Icons](https://raw.githubusercontent.com/your-username/banana-icons-vscode/main/images/editor-tabs.png)
+![Editor Tabs with Banana Icons](https://raw.githubusercontent.com/kpab/banana-icon/main/images/editor-tabs.png)
 
 ## Supported File Types
 
@@ -96,8 +96,8 @@ Love bananas? Want to make this extension even better? Contributions are welcome
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/banana-icons-vscode.git
-cd banana-icons-vscode
+git clone https://github.com/kpab/banana-icon.git
+cd banana-icon
 
 # Install dependencies
 npm install
@@ -158,7 +158,7 @@ This extension is licensed under the [MIT License](LICENSE).
 **Enjoy your bananas!** 🍌
 
 If you like this extension, please consider:
-- ⭐ Starring the [GitHub repository](https://github.com/your-username/banana-icons-vscode)
+- ⭐ Starring the [GitHub repository](https://github.com/kpab/banana-icon)
 - 📝 Leaving a [review on the marketplace](https://marketplace.visualstudio.com/items?itemName=banana-dev.banana-icons)
 - 🍌 Sharing it with your friends
 
