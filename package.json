@@ -35,8 +35,8 @@
   ],
   "icon": "icons/banana.png",
   "galleryBanner": {
-    "color": "#FFD700",
-    "theme": "light"
+    "color": "#FFE135",
+    "theme": "dark"
   },
   "repository": {
     "type": "git",
