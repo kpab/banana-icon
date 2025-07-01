@@ -84,7 +84,7 @@ _*Source: Trust me bro_
 
 > "A picture is worth a thousand bananas" - Ancient Proverb
 
-![Banana Paradise](https://raw.githubusercontent.com/kpab/banana-icon/main/images/preview.png)
+See it in action - EVERYTHING becomes banana! 🍌
 
 ## 🎯 Supported File Types
 
